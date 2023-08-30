@@ -1,4 +1,4 @@
-package top.liyanxing.deawwebtext;
+package top.liyanxing.drawwebtext;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
