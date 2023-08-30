@@ -45,6 +45,18 @@
             <version>5.8.21</version>
         </dependency>
 
+        <dependency>
+            <groupId>top.liyanxing</groupId>
+            <artifactId>lyx-common</artifactId>
+            <version>1.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.16.1</version>
+        </dependency>
+
     </dependencies>
 
     <build>
