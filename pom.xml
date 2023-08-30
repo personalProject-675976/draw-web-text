@@ -5,7 +5,7 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <groupId>top.liyanxing</groupId>
-    <artifactId>deaw-web-text</artifactId>
+    <artifactId>draw-web-text</artifactId>
     <version>0.0.1</version>
     <name>draw-web-text</name>
     <description>draw-web-text</description>
