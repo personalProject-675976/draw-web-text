@@ -30,7 +30,7 @@ public class MyService
         List<Element> eleOfHPD = this.getEleOfHPD(url);
         String htmlText = eleOfHPD.stream().map(Element::toString).collect(Collectors.joining());
 
-        return CommonResult.successData(StrUtil.concat(true, "本工具由李艳兴倾情打造\n\n", htmlText));
+        return CommonResult.successData(StrUtil.concat(true, "本工具由李艳兴倾情打造<br/><br/>", htmlText));
     }
 
     /**

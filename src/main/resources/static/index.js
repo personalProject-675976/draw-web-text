@@ -1,6 +1,3 @@
-console.log('这是内容');
-
-
 // 给提交按钮绑定事件
 $('#export').click
 (
